@@ -176,7 +176,7 @@ image::cve-severity.png[]
 
 * Use the new https://pan.dev/prisma-cloud/api/cspm/get-audit-logs/[POST /audit/api/v1/log] endpoint to programmatically leverage the new pagination and filter capabilities to streamline your use cases.
 
-|*Governance Dashboard and Policy Endpoint Updates*
+|*Governance Dashboard and Policy Endpoint Updates*    // Not available in the console // 
 //RLP-150508
 
 |A new filter option for *Asset Type* is available on the *Governance* page, which allows you to filter the policy list based on the type of asset associated with the policy.
